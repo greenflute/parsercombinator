@@ -3,11 +3,11 @@ package dk.ahnfelt.parsercombinator.examples;
 import dk.ahnfelt.parsercombinator.Parser;
 
 import java.util.Arrays;
-import java.util.function.Function;
+//import java.util.function.Function;
 
 import static dk.ahnfelt.parsercombinator.Parsers.*;
 
-public class Main {
+public class JsonMain {
 
     public static void main(String[] arguments) throws Failure {
 
